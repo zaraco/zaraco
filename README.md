@@ -2,7 +2,7 @@
 
 **Frontend Developer**
 
-A relentless debugger with 3 years of experience as a Front-End Developer specializing in Javascript, Typescript, React, Hooks, Redux, Redux-Saga, and Lit element with additional skills in Angular V2, different test libraries such as Jest, enzyme, and Karma. Very experienced in teamwork, agile methodologies, advanced git versioning. As well, familiar with Design Patterns and Solid.
+A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redux, Redux-Saga, and Lit element with additional skills in Angular V2, different test libraries such as Jest, enzyme, and Karma. Very experienced in teamwork, agile methodologies, advanced git versioning. As well, familiar with Design Patterns and Solid.
 
 ![Armancodv's github stats](https://github-readme-stats.vercel.app/api?username=zaraco&show_icons=true&theme=dark)
 
