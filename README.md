@@ -1,6 +1,6 @@
 # Zahra Teymouri
 
-**Frontend Developer**
+**Software Developer**
 
 A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redux, Redux-Saga, and Lit element with additional skills in Angular V2, different test libraries such as Jest, enzyme, and Karma. Very experienced in teamwork, agile methodologies, advanced git versioning. As well, familiar with Design Patterns and Solid.
 
