@@ -10,7 +10,7 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 
 ## Skills
 
-- Languages: Javascript Typescript
+- Languages: Javascript Typescript Node.js
 - Frameworks: React Lit-Element Angular
 - Data Layer: Redux Redux-Saga Rx.Js Restful-API Postman
 - Style: Sass Less Bootstrap Ant Material Figma
@@ -20,4 +20,4 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 - Auxiliary tools: Webpack Eslint
 - IDE: IntelliJ Webstorm VS code
 - Other Skills: JSP Google Tag Manager
-- Familiar to: Kotlin Node.js MongoDB Firebase
+- Familiar to: Kotlin MongoDB Firebase
