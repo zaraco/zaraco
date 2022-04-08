@@ -11,7 +11,7 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 ## Skills
 
 - Languages: Javascript Typescript Node.js ES6
-- Frameworks: React Lit-Element Angular
+- Frameworks: React Lit-Element webcomponent Angular
 - Data Layer: Redux Redux-Saga Rx.Js Restful-API Postman
 - Style: Sass Less Bootstrap Ant Material Figma
 - Teamwork: Agile Git Gitlab Github Jira Bitbucket
