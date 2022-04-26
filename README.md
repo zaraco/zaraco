@@ -19,6 +19,6 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 - Test: Jest Enzyme Karma
 - Architecture: Design Patterns SOLID Object Oriented Functional
 - Auxiliary tools: Webpack Eslint
-- IDE: IntelliJ Webstorm VS code
+- IDE: IntelliJ Webstorm VS code.
 - Other Skills: JSP Google Tag Manager Hybris Spartacus.
 - Familiar to: Kotlin MongoDB Firebase.
