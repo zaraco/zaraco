@@ -20,5 +20,5 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 - Architecture: Design Patterns SOLID Object Oriented Functional
 - Auxiliary tools: Webpack Eslint
 - IDE: IntelliJ Webstorm VS code
-- Other Skills: JSP Google Tag Manager Hybris Spartacus
+- Other Skills: JSP Google Tag Manager Hybris Spartacus.
 - Familiar to: Kotlin MongoDB Firebase.
