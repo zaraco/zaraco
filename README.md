@@ -21,5 +21,4 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 - Auxiliary tools: Webpack Eslint
 - IDE: IntelliJ Webstorm VS code
 - Other Skills: JSP Google Tag Manager Hybris Spartacus
-- Familiar to: Kotlin MongoDB Firebase
-
+- Familiar to: Kotlin MongoDB Firebase.
