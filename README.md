@@ -17,7 +17,7 @@ A relentless debugger specializing in Javascript, Typescript, React, Hooks, Redu
 - Style: Sass Less Bootstrap Ant Material Figma
 - Teamwork: Agile Git Gitlab Github Jira Bitbucket
 - Test: Jest Enzyme Karma
-- Architecture: Design Patterns SOLID Object Oriented Functional
+- Architecture: Design Patterns SOLID Object Oriented Functional.
 - Auxiliary tools: Webpack Eslint.
 - IDE: IntelliJ Webstorm VS code.
 - Other Skills: JSP Google Tag Manager Hybris Spartacus.
